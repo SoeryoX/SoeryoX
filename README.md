@@ -1,5 +1,9 @@
-## Hi there 👋
+### Hello , Im SoeryoX ! 
 
+<br>
+<p> <img src="https://komarev.com/ghpvc/?username=your-SoeryoX&color=blueviolet&label=PROFILE+VIEWS" alt="Suryo" /> <p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=SoeryoX&show_icons=true&hide_border=true&theme=radical">
 <!--
 **SoeryoX/SoeryoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
